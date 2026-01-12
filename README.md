@@ -4,7 +4,7 @@ A curated collection of realistic qualitative text datasets designed for UX prac
 
 ## What is Qualitative Text Data?
 
-Qualitative text data consists of unstructured, natural language responses from users—interview transcripts, open-ended survey responses, diary entries, support tickets, and forum discussions. Unlike quantitative metrics (click rates, completion times), qualitative data reveals the *why* behind user behavior: motivations, frustrations, expectations, and mental models.
+Qualitative text data consists of unstructured, natural language responses from users-interview transcripts, open-ended survey responses, diary entries, support tickets, and forum discussions. Unlike quantitative metrics (click rates, completion times), qualitative data reveals the *why* behind user behavior: motivations, frustrations, expectations, and mental models.
 
 This repository provides synthetic but realism-optimized datasets that mirror the complexity, messiness, and nuance of real-world UX research data.
 
@@ -52,7 +52,7 @@ Group discussions revealing social dynamics, consensus, and divergent perspectiv
 Longitudinal, self-reported entries tracking user experiences over time, ideal for understanding context and evolving needs.
 
 ### Customer Feedback
-Real-world feedback channels including app store reviews, support tickets, and chatbot conversations—often unsolicited and emotionally charged.
+Real-world feedback channels including app store reviews, support tickets, and chatbot conversations-often unsolicited and emotionally charged.
 
 ### Community Forums
 Public discussions from UX forums and product-specific Reddit threads, representing organic, unprompted user discourse.
